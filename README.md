@@ -22,7 +22,8 @@
 * Ebay UK
 - Google Fi、Google Play等Google系的平台皆可正常消费
 * WIX、GoDaddy、SITEGROUND HOSTING、Namecheap、AliCloud US、DisneyPLUS、NINTENDO、VMWARE、Anytimemailbox、Fiverr、Mailchimp、Upwork、DEEPL
-- OpenAI、ChatGPT Plus、MidJourney、Claude Pro、Cursor、Poe、Perplexity、Grok、Suno、windsurf等AI平台
+- OpenAI、ChatGPT Plus、MidJourney、Claude Pro、Cursor、Poe、Perplexity、Grok、Suno、windsurf、Pixiv、Vercel等AI平台
+* Patreon、webshare、Openrouter、twitter
 
 新增加的几个卡头：485997、451946、559666、559292非常好用，订阅Onlyfans也不在话下。
 更多的虚拟信用卡相关信息，可参考：[虚拟信用卡](https://www.vpsdawanjia.com/category/virtual-card)
