@@ -32,7 +32,9 @@
 2. 用 **借记卡**直接消费，或 **Withdraw** 提现到**美国银行账户**。
 3. 如需公司用途：在 **Business** 账户内完成卖币更合规；或从个人侧转移至公司侧（注意分账与留痕）。
 
-> ![](https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/cryptobusiness.png)
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/cryptobusiness.png" alt="cryptobusiness" />
+</p>
 >
 > 示例截图：个人 PayPal「理财 → 加密货币」功能页（含买/卖/发送/接收）。
 
@@ -55,11 +57,24 @@
 ## 4）我的实测记录（关键截屏）
 
 - **PYUSD 转入并卖出**：收到 **999.17 PYUSD** → 卖出得到 **USD 999.18**（价差极小，以当时订单为准）。
-  ![](https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/sellpyusd.png)
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/sellpyusd.png" alt="sellpyusd" />
+</p>
 - **提现到美行（Citi）**：卖出 **1999.17 PYUSD** → 得到 **USD 1,999.17** → 标准提现至 **CITIBANK** 入账。
-  ![](https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/withdrawusd.png)
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/withdrawusd.png" alt="withdrawusd" />
+  <br/>
+  <em>图 1：提现到花旗银行示意图</em>
+</p>
 - **国内场景消费**：PayPal Debit Mastercard 余额支付，美团通过支付宝走国际卡通道；选择按发卡行结算，避免商户侧 DCC。
-  ![](https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/meituan.png)
+  <center>
+
+![](https://raw.githubusercontent.com/vpsdawanjia/image-hosting/main/image/meituan.png)  
+
+图 3：PayPal Debit Mastercard 国内消费示意图
+
+</center>
+
 
 > 结论：**消费/提现顺滑**；**ATM 取现可用但成本高**，不建议当主要取现工具。
 
