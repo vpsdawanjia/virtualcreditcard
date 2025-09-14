@@ -88,10 +88,10 @@
 - 必要条件：美国地址、美国手机号、护照、**ITIN**；完成 KYC。
 - 拿到任意一张：**PayPal Debit Card（个人） / PayPal Business Debit Card（公司） / Venmo Debit Card** 即可跑通上文流程。
 
-> 延伸阅读（放你站内链接）：
-> 《如何注册美国 PayPal 并长期使用》
-> 《从 Anytime Mailbox 租美国地址：详细步骤》
-> 《在国内申请美国 ITIN 的几个方法》
+> 延伸阅读：
+> 《[如何注册美国 PayPal 并长期使用](https://www.vpsdawanjia.com/2070.html)》
+> 《[从 Anytime Mailbox 租美国地址：详细步骤](https://www.vpsdawanjia.com/3562.html)》
+> 《[在国内申请美国 ITIN 的几个方法](https://www.vpsdawanjia.com/2731.html)》
 
 ## 8）常见问题（FAQ）
 
