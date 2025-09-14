@@ -104,9 +104,10 @@
 - 拿到任意一张：**PayPal Debit Card（个人） / PayPal Business Debit Card（公司） / Venmo Debit Card** 即可跑通上文流程。
 
 > 延伸阅读：
-> 《[如何注册美国 PayPal 并长期使用](https://www.vpsdawanjia.com/2070.html)》
-> 《[从 Anytime Mailbox 租美国地址：详细步骤](https://www.vpsdawanjia.com/3562.html)》
-> 《[在国内申请美国 ITIN 的几个方法](https://www.vpsdawanjia.com/2731.html)》
+> 《<a href="https://www.vpsdawanjia.com/2070.html" target="_blank">如何注册美国 PayPal 并长期使用</a>》  
+> 《<a href="https://www.vpsdawanjia.com/3562.html" target="_blank">从 Anytime Mailbox 租美国地址：详细步骤</a>》  
+> 《<a href="https://www.vpsdawanjia.com/2731.html" target="_blank">在国内申请美国 ITIN 的几个方法</a>》
+
 
 ## 8）常见问题（FAQ）
 
