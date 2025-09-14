@@ -8,10 +8,10 @@
 
 以下是本仓库收录的经验分享文章列表：
 
-- **[在中国大陆经营 YouTube 的可行性与实践经验](./share/在中国大陆经营%20YouTube%20的可行性与实践经验.md)**
+- **[在中国大陆经营 YouTube 的可行性与实践经验](./share/youtube_in_china_guide.md)**
   - > 本文探讨了在中国大陆地区运营 YouTube 频道所涉及的合法性问题、网络访问方案、内容创作建议以及盈利收款方法，为有意出海的创作者提供一份全面的实操指南。
 
-- **[USDT/加密资产如何变成美元？我用 PayPal/Venmo 借记卡的实测与避坑](./share/USDT加密资产如何落到美元？我用%20PayPalVenmo%20借记卡的实测与避坑.md)**
+- **[USDT/加密资产如何变成美元？我用 PayPal/Venmo 借记卡的实测与避坑](./share/crypto_to_usd_with_paypal_guide.md)**
   - > 本文通过作者的实际测试，详细介绍了两条将加密资产（特别是 USDT）转换为美元的路径，内容包括具体操作流程、费用对比、风控要点以及 PayPal/Venmo 借记卡的使用技巧。
 
 ---
