@@ -1,4 +1,4 @@
-# USDT/加密资产如何落到美元？我用 PayPal/Venmo 借记卡的实测与避坑
+# USDT/加密资产如何变成美元？我用 PayPal/Venmo 借记卡的实测与避坑
 
 
 
